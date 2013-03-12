@@ -20,6 +20,6 @@ switch($do){
 		include("controleurs/c_lesEmployes.php");break;
 	}
 	}
-	
+//commentaire	
 ?>
 
